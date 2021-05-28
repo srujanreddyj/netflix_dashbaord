@@ -23,7 +23,6 @@ Clone the git repo, then install the requirements with pip
 ```
 
 git clone https://github.com/plotly/dash-sample-apps
-cd dash-sample-apps/apps/dash-financial-report
 pip install -r requirements.txt
 
 ```
